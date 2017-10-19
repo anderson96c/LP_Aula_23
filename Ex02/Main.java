@@ -48,7 +48,7 @@ public class Main extends Exception
 					}
 					else
 					{
-						writer.write("Erro no calculo\n");
+						writer.write("Error\n");
 					}
 				}
 				writer.close();
